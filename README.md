@@ -1,4 +1,3 @@
-```markdown
 # JWT Manager
 
 JWT Manager is a powerful and efficient library designed to manage JWT tokens in applications. It simplifies the process of retrieving access tokens and JWT tokens from external authentication services, caching them using Redis for improved performance, and handling token expiration and automatic refresh. This library is ideal for developers looking to integrate secure and efficient token management into their projects.
