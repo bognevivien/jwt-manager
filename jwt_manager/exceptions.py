@@ -1,0 +1,2 @@
+class JWTManagerError(Exception):
+    pass
